@@ -1,4 +1,4 @@
-# AtCoder-contest-notify
+# AtCoder-Contest-Notify
 
 AtCoderコンテスト通知LINE Notify
 
